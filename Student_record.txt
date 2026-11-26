@@ -1,0 +1,10 @@
+Student record
+==============
+
+Name    birth day        email
+____    ________         _____
+
+Virat   5, june, 1882    virat@kohl.com
+maira   12, april, 2001  maria@sharapova.com
+serena  24, june, 1998   serena@williams.com
+joe     1, may, 1997     joe@root.com
